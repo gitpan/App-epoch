@@ -2,6 +2,7 @@ use strict;
 use warnings;
 package App::epoch;
 
+our $VERSION = 1;
 # ABSTRACT: Converts fuzzy time into local time
 
 use Time::ParseDate;
